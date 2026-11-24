@@ -2,7 +2,7 @@
 
 A personal website I built for my IT Data Analytics course at Nova Scotia Community College (NSCC). It introduces me, shows my wildlife photography, lists the IT skills I am learning, and gives ways to contact me.
 
-**Live site:** https://yourusername.github.io/my-website/
+**Live site:** https://aashay0712.github.io/my-website/
 
 ## About This Project
 
